@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">IOTLed</string>
+    <string name="lable_light1">LED Light1:</string>
+    <string name="lable_light2">LED Light2:</string>
+</resources>
